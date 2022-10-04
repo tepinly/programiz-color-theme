@@ -318,7 +318,7 @@
       "settings": {
         "foreground": "#b69c54",
       }
-    }
+    },
 		{
 			"name": "Block Level Variables",
 			"scope": [
