@@ -262,7 +262,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#b69c54"
+				"foreground": "#ccc47c"
 			}
 		},
 		{
@@ -305,16 +305,27 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#dadac4"
+				"foreground": "#d6a24f"
 			}
 		},
+    {
+      "name": "Typescript object literals",
+      "scope": [
+        	"meta.object-literal.key.ts",
+          "meta.object.member.ts",
+          "meta.objectliteral.ts"
+      ],
+      "settings": {
+        "foreground": "#b69c54",
+      }
+    }
 		{
 			"name": "Block Level Variables",
 			"scope": [
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#dadac4"
+				"foreground": "#ccc47c"
 			}
 		},
 		{
@@ -371,7 +382,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#dadac4"
+				"foreground": "#d6a24f"
 			}
 		},
 		{
