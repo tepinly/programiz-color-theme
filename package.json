@@ -1,0 +1,21 @@
+{
+  "name": "programiz-theme",
+  "displayName": "Programiz Theme",
+  "description": "A color theme based on the Programiz website syntax highlighting color scheme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Programiz Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Programiz Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
