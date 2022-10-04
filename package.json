@@ -2,7 +2,25 @@
   "name": "programiz-theme",
   "displayName": "Programiz Theme",
   "description": "A color theme based on the Programiz website syntax highlighting color scheme",
+  "publisher": "Tepinly",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tepinly/programiz-color-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "tepinly",
+    "warm blue",
+    "warm",
+    "blue",
+    "autumn",
+    "low contrast",
+    "low contrast theme",
+    "low contrast dark",
+    "dark low contrast"
+  ],
   "engines": {
     "vscode": "^1.71.0"
   },
